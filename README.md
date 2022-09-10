@@ -24,3 +24,5 @@
 - [atlas教程](https://github.com/ZGG2016/atlas-tutorial-atguigu)
 
 - [kylin教程](https://github.com/ZGG2016/kylin-tutorial-atguigu)
+
+- [kettle教程](https://github.com/ZGG2016/kettle-tutorial-atguigu)
