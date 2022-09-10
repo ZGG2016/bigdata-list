@@ -5,6 +5,8 @@
 
 - [hive官网翻译](https://github.com/ZGG2016/hive-website)
 
+- [flume官网翻译](https://github.com/ZGG2016/flume-website)
+
 - [spark教程](https://github.com/ZGG2016/spark-tutorial-atguigu)
 
 - [spark调优](https://github.com/ZGG2016/spark-tuning-atguigu)
