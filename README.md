@@ -3,6 +3,10 @@
 
 - [hive教程](https://github.com/ZGG2016/hive-tutorial-atguigu)
 
+- [hive调优](https://github.com/ZGG2016/hive-tuning-sourcecode-atguigu)
+
+- [hive源码分析](https://github.com/ZGG2016/hive-tuning-sourcecode-atguigu)
+
 - [hive官网翻译](https://github.com/ZGG2016/hive-website)
 
 - [flume官网翻译](https://github.com/ZGG2016/flume-website)
