@@ -23,6 +23,8 @@
 
 - [flink-cdc教程](https://github.com/ZGG2016/flinkcdc-tutorial-atguigu)
 
+- [flink源码分析](https://github.com/ZGG2016/flink-sourcecode)
+
 - [superset教程](https://github.com/ZGG2016/superset-tutorial-atguigu)
 
 - [atlas教程](https://github.com/ZGG2016/atlas-tutorial-atguigu)
