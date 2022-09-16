@@ -21,6 +21,8 @@
 
 - [flink-java教程](https://github.com/ZGG2016/flinkjava-tutorial-atguigu)
 
+- [flink调优](https://github.com/ZGG2016/flink-tuning-atguigu)
+
 - [flink-cdc教程](https://github.com/ZGG2016/flinkcdc-tutorial-atguigu)
 
 - [flink源码分析](https://github.com/ZGG2016/flink-sourcecode)
