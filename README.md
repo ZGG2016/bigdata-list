@@ -34,3 +34,5 @@
 - [kylin教程](https://github.com/ZGG2016/kylin-tutorial-atguigu)
 
 - [kettle教程](https://github.com/ZGG2016/kettle-tutorial-atguigu)
+
+- [数仓项目](https://github.com/ZGG2016/data-warehouse-program)
