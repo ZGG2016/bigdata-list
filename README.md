@@ -11,6 +11,8 @@
 
 - [flume官网翻译](https://github.com/ZGG2016/flume-website)
 
+- [scala教程](https://github.com/ZGG2016/scala-tutorial-atguigu)
+
 - [spark教程](https://github.com/ZGG2016/spark-tutorial-atguigu)
 
 - [spark调优](https://github.com/ZGG2016/spark-tuning-atguigu)
