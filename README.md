@@ -30,6 +30,6 @@
     <td><a href="https://github.com/ZGG2016/kylin-tutorial-atguigu">kylin教程</a></td>
     <td><a href="https://github.com/ZGG2016/kettle-tutorial-atguigu">kettle教程</a></td>
     <td><a href="https://github.com/ZGG2016/data-warehouse-program">数仓项目</a></td>
-    <td><a href="javascript:void(0)"></a></td>
+    <td><a href="https://github.com/ZGG2016/sql-practice">sql题目</a></td>
   </tr>
 </table>
