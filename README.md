@@ -40,6 +40,8 @@
 
 - [Atlas](https://github.com/ZGG2016/atlas)
 
+- [Kettle](https://github.com/ZGG2016/kettle)
+
 - [数据仓库](https://github.com/ZGG2016/data-warehouse)
 
 - [数据挖掘](https://github.com/ZGG2016/data-mining)
