@@ -1,41 +1,45 @@
 # 大数据仓库列表
 
-- [Hadoop]()
+- [Hadoop](https://github.com/ZGG2016/hadoop)
 
 - [Hive](https://github.com/ZGG2016/hive)
 
 - [Flume](https://github.com/ZGG2016/flume)
 
+- [Kafka](https://github.com/ZGG2016/kafka)
+
 - [Spark](https://github.com/ZGG2016/spark)
 
-- [Storm]()
+- [Storm](https://github.com/ZGG2016/storm)
 
 - [Flink](https://github.com/ZGG2016/flink)
 
-- [HBase]()
+- [HBase](https://github.com/ZGG2016/hbase)
 
-- [ElasticSearch]()
+- [ElasticSearch](https://github.com/ZGG2016/elasticsearch)
 
-- [Redis]()
+- [Redis](https://github.com/ZGG2016/redis)
 
-- [Impala]()
+- [Impala](https://github.com/ZGG2016/impala)
 
-- [Presto]()
+- [Presto](https://github.com/ZGG2016/presto)
 
 - [Kylin](https://github.com/ZGG2016/kylin)
 
 - [Superset](https://github.com/ZGG2016/superset)
 
-- [Sqoop]()
+- [Sqoop](https://github.com/ZGG2016/sqoop)
 
-- [Alluxio]()
+- [Alluxio](https://github.com/ZGG2016/alluxio)
 
-- [Zookeeper]()
+- [Zookeeper](https://github.com/ZGG2016/zookeeper)
 
-- [Azkaban]()
+- [Azkaban](https://github.com/ZGG2016/azkaban)
 
-- [Griffin]()
+- [Griffin](https://github.com/ZGG2016/griffin)
 
 - [Atlas](https://github.com/ZGG2016/atlas)
 
 - [数据仓库](https://github.com/ZGG2016/data-warehouse)
+
+- [数据挖掘](https://github.com/ZGG2016/data-mining)
