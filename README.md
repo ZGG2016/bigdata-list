@@ -2,17 +2,15 @@
 
 - [Hadoop]()
 
-- [Hive]()
+- [Hive](https://github.com/ZGG2016/hive)
 
-- [Flume]()
+- [Flume](https://github.com/ZGG2016/flume)
 
-- [Kafka]()
-
-- [Spark]()
+- [Spark](https://github.com/ZGG2016/spark)
 
 - [Storm]()
 
-- [Flink]()
+- [Flink](https://github.com/ZGG2016/flink)
 
 - [HBase]()
 
@@ -24,9 +22,9 @@
 
 - [Presto]()
 
-- [Kylin]()
+- [Kylin](https://github.com/ZGG2016/kylin)
 
-- [Superset]()
+- [Superset](https://github.com/ZGG2016/superset)
 
 - [Sqoop]()
 
@@ -38,6 +36,6 @@
 
 - [Griffin]()
 
-- [Atlas]()
+- [Atlas](https://github.com/ZGG2016/atlas)
 
-- [数据仓库]()
+- [数据仓库](https://github.com/ZGG2016/data-warehouse)
