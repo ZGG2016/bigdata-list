@@ -26,6 +26,8 @@
 
 - [Kylin](https://github.com/ZGG2016/kylin)
 
+- [Doris](https://github.com/ZGG2016/doris)
+
 - [Superset](https://github.com/ZGG2016/superset)
 
 - [Sqoop](https://github.com/ZGG2016/sqoop)
