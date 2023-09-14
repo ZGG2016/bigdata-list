@@ -42,6 +42,8 @@
 
 - [Atlas](https://github.com/ZGG2016/atlas)
 
+- [Prometheus](https://github.com/ZGG2016/prometheus)
+
 - [Kettle](https://github.com/ZGG2016/kettle)
 
 - [数据仓库](https://github.com/ZGG2016/data-warehouse)
