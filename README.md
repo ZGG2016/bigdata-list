@@ -56,4 +56,6 @@
 
 - [数据挖掘](https://github.com/ZGG2016/data-mining)
 
+- [数据分析](https://github.com/ZGG2016/data-analysis)
+
 - [用户画像](https://github.com/ZGG2016/user-profile)
