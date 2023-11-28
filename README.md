@@ -48,6 +48,8 @@
 
 - [DolphinScheduler](https://github.com/ZGG2016/dolphinscheduler)
 
+- [Oozie](https://github.com/ZGG2016/oozie)
+
 - [Ranger](https://github.com/ZGG2016/ranger)
 
 - [Kettle](https://github.com/ZGG2016/kettle)
