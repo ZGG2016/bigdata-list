@@ -50,6 +50,8 @@
 
 - [Oozie](https://github.com/ZGG2016/oozie)
 
+- [Hue](https://github.com/ZGG2016/hue)
+
 - [Ranger](https://github.com/ZGG2016/ranger)
 
 - [Kettle](https://github.com/ZGG2016/kettle)
